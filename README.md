@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **zeeshansheikh921837@gmail.com**
 
-- 📄 Know about my experiences ( 2+ years)
+- 📄 Know about my experiences ( 3+ years)
 
 - ⚡ Fun fact **Like Fun Sometimes**
 
