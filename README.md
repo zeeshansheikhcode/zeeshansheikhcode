@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshansheikh&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshansheikh" /> </p>
 
-- 🌱 I’m currently learning **State Management, Node, Mongo DB**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Flutter**
 
